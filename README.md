@@ -96,5 +96,5 @@ The main objective is to detect and map:
 
 ## 👩‍💻 Author
 
-GIS Graduate | Sultan Qaboos University
-Research interests: Remote Sensing, Environmental Analysis, GIS Applications
+Shahd Al Abdali
+GIS & Remote Sensing
